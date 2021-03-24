@@ -54,10 +54,6 @@ h2 + p { /* Adjacent sibling */
     border-image: linear-gradient(to left,#007EA8, #3db6df) 1;
 }
 
-#top-text-link:link,:visited { text-decoration: none; color:#007EA8; }
-#top-text-link:hover { text-decoration: none; color:white; }
-
-
 .fine-print {
     font-size: 0.625rem;
     letter-spacing: 1px;
